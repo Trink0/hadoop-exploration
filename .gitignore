@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+#Ide
+.eclipse
+.idea/
+
+#Maven target
+**/target/
